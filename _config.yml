@@ -22,7 +22,7 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "https://ymh29022902/codjournal.github.io.git" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@dirkfabisch'
@@ -61,3 +61,5 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
+remote_theme : Dirk Fabisch/Mediator
